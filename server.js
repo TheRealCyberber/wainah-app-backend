@@ -13,7 +13,7 @@ const app = express()
 
 const cors = require('cors');
 app.use(cors({
-  origin: 'http://localhost:5173' // imported cors to enable backend
+  origin: 'https://wainah.surge.sh' // imported cors to enable backend
 }))
 
 app.use(logger('dev'))

@@ -8,8 +8,8 @@ Report lost or found items, browse listings, submit claim requests, and connect 
 
 ## 🔗 Deployed Site
 
-- Live App:
-- Backend API: 
+- Live App: https://wainah.surge.sh
+- Backend API: https://wainah-app-backend.onrender.com
 
 ---
 
